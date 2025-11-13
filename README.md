@@ -1,12 +1,12 @@
 # Image Loader - Загрузчик изображений с постов форума
 
-[![CI](https://github.com/sni10/Universal-forum-parcer/workflows/CI/badge.svg)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
-[![Release](https://github.com/sni10/Universal-forum-parcer/workflows/Release/badge.svg)](https://github.com/sni10/Universal-forum-parcer/releases)
-[![Tests](https://img.shields.io/badge/tests-17%20passed-brightgreen.svg)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
-[![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sni10/Universal-forum-parcer/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/sni10/Universal-forum-parcer)](https://github.com/sni10/Universal-forum-parcer/releases/latest)
-[![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
+[![CI](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml/badge.svg)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
+[![Release](https://github.com/sni10/Universal-forum-parcer/actions/workflows/release.yml/badge.svg)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/release.yml)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative&logoColor=white)](https://github.com/sni10/Universal-forum-parcer/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/sni10/Universal-forum-parcer?logo=github)](https://github.com/sni10/Universal-forum-parcer/releases/latest)
+[![Tests](https://img.shields.io/badge/tests-17%20passed-brightgreen?logo=pytest&logoColor=white)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen?logo=codecov&logoColor=white)](https://github.com/sni10/Universal-forum-parcer/actions/workflows/ci.yml)
 
 Асинхронный загрузчик изображений с постов форума, в том числе из внешних источников, с поддержкой восстановления после сбоев, повторными попытками и умной фильтрацией.
 
